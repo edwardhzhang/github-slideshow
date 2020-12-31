@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+We are the all singing all dancing crap of the world.
 Use the left arrow to go back!
